@@ -1,0 +1,2 @@
+# backbone
+Communications abstraction layer
